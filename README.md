@@ -3,8 +3,7 @@
 This repo contains scripts to reproduce the results in the paper:
 
 "DPER: Efficient Parameter Estimation for Randomly Missing Data",
-
-which is under the review.
+published in Knowledge-based Systems
 
 # Usage
 The notebooks are created by Google's Colaboratory and can be run online with Colab
